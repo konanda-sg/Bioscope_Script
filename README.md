@@ -1,6 +1,6 @@
 <h1 align="center">
   <img alt="cgapp logo" src="https://static.bioscopelive.com/bundles/bongoweb/images/logo-black.svg" width="300px"/><br/>
-  ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/JIO_IPTV/main/JIO.m3u">Bioscope</a> ⭐️
+  ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/Bioscope_Script/main/local_playlist.m3u">Bioscope</a> ⭐️
 </h1>
 <p align="center">Run <a href="https://raw.githubusercontent.com/sabbiriptv/Bioscope_Script/main/script.py">Script</a> And Play <a href="https://raw.githubusercontent.com/sabbiriptv/Bioscope_Script/main/local_playlist.m3u">M3U</a></p>
 
