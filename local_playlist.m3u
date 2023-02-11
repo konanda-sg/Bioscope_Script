@@ -1,70 +1,143 @@
-https://www.bioscopelive.com/en/channel/channel-i
-https://www.bioscopelive.com/en/channel/mohona-tv
-https://www.bioscopelive.com/en/channel/channel-24
-https://www.bioscopelive.com/en/channel/zee-bangla
-https://www.bioscopelive.com/en/channel/bangla-vision
-https://www.bioscopelive.com/en/channel/colors-asia
-https://www.bioscopelive.com/en/channel/ekushey-tv
-https://www.bioscopelive.com/en/channel/atn-bangla
-https://www.bioscopelive.com/en/channel/boishakhi-tv
-https://www.bioscopelive.com/en/channel/ntv
-https://www.bioscopelive.com/en/channel/btv-world
-https://www.bioscopelive.com/en/channel/my-tv
-https://www.bioscopelive.com/en/channel/ananda-tv
-https://www.bioscopelive.com/en/channel/mtv
-https://www.bioscopelive.com/en/channel/rtv
-https://www.bioscopelive.com/en/channel/sony-aath-live
-https://www.bioscopelive.com/en/channel/sony-hd-live
-https://www.bioscopelive.com/en/channel/sony-max-hd-live
-https://www.bioscopelive.com/en/channel/sony-pix-live
-https://www.bioscopelive.com/en/channel/sony-sab-tv-live
-https://www.bioscopelive.com/en/channel/sony-wah-live
-https://www.bioscopelive.com/en/channel/lotus-macau-live
-https://www.bioscopelive.com/en/channel/zee-bollywood
-https://www.bioscopelive.com/en/channel/zee-cinema-hd
-https://www.bioscopelive.com/en/channel/zee-tv-hd
-https://www.bioscopelive.com/en/channel/desh-tv
-https://www.bioscopelive.com/en/channel/sony-pal
-https://www.bioscopelive.com/en/channel/bangla-tv
-https://www.bioscopelive.com/en/channel/colors-infinity
-https://www.bioscopelive.com/en/channel/colors-rishtey
-https://www.bioscopelive.com/en/channel/comedy-central
-https://www.bioscopelive.com/en/channel/btv-hd
-https://www.bioscopelive.com/en/channel/global-tv
-https://www.bioscopelive.com/en/channel/ekhon-tv
-https://www.bioscopelive.com/en/channel/bijoy-tv
-https://www.bioscopelive.com/en/channel/asian-tv-hd
-https://www.bioscopelive.com/en/channel/nexus-television-hd
-https://www.bioscopelive.com/en/channel/i-film-english
-https://www.bioscopelive.com/en/channel/max-2
-https://www.bioscopelive.com/en/channel/colors-bangla
-https://www.bioscopelive.com/en/channel/jamuna-tv
-https://www.bioscopelive.com/en/channel/sa-tv
-https://www.bioscopelive.com/en/channel/ekattur-tv
-https://www.bioscopelive.com/en/channel/sangsad-tv
-https://www.bioscopelive.com/en/channel/atn-news
-https://www.bioscopelive.com/en/channel/independent-tv
-https://www.bioscopelive.com/en/channel/news-24-hd
-https://www.bioscopelive.com/en/channel/dbc-news
-https://www.bioscopelive.com/en/channel/somoy-tv
-https://www.bioscopelive.com/en/channel/al-jazeera-english-live
-https://www.bioscopelive.com/en/channel/eeuro-news-live
-https://www.bioscopelive.com/en/channel/channel-news-asia
-https://www.bioscopelive.com/en/channel/dw-live
-https://www.bioscopelive.com/en/channel/sony-ten-3-live
-https://www.bioscopelive.com/en/channel/sony-ten-5
-https://www.bioscopelive.com/en/channel/dubai-sports
-https://www.bioscopelive.com/en/channel/sony-ten-1-live
-https://www.bioscopelive.com/en/channel/sony-ten-2-live
-https://www.bioscopelive.com/en/channel/nickelodeon
-https://www.bioscopelive.com/en/channel/sonic
-https://www.bioscopelive.com/en/channel/nick-junior
-https://www.bioscopelive.com/en/channel/colors-bangla-cinema
-https://www.bioscopelive.com/en/channel/movie-bangla-tv
-https://www.bioscopelive.com/en/channel/vh1
-https://www.bioscopelive.com/en/channel/mtv-beats
-https://www.bioscopelive.com/en/channel/movie-bangla-music
-https://www.bioscopelive.com/en/channel/sudi-quran
-https://www.bioscopelive.com/en/channel/sony-yay-live
-https://www.bioscopelive.com/en/channel/bbc-earth-hd-live
-https://www.bioscopelive.com/en/channel/history-tv
+#EXTM3U
+# Scraped By (https://github.com/sabbiriptv)
+
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/xybsni9y3qD.png",Channel I
+http://localhost:5000/auto?id=channel-i
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/UU3a2v6E7Zs.png",Mohona
+http://localhost:5000/auto?id=mohona-tv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/Dh0neKDKLrs.png",Channel 24
+http://localhost:5000/auto?id=channel-24
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/j6nIdklOX39.png",Zee Bangla
+http://localhost:5000/auto?id=zee-bangla
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/raiZvB8y1Nv.png",Bangla Vision
+http://localhost:5000/auto?id=bangla-vision
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/jjVVEdLt5UD.png",Colors Asia
+http://localhost:5000/auto?id=colors-asia
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/zYotX5N9AM7.png",Ekushey TV
+http://localhost:5000/auto?id=ekushey-tv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/ZCqILa0u7vD.png",ATN Bangla
+http://localhost:5000/auto?id=atn-bangla
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/20mgRCbFLz5.png",Boishakhi Television
+http://localhost:5000/auto?id=boishakhi-tv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/IhHZaZ5dVqH.png",NTV
+http://localhost:5000/auto?id=ntv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/99ZKMd4mWYM.png",BTV World
+http://localhost:5000/auto?id=btv-world
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/vDXLuLBXf6J.png",My TV
+http://localhost:5000/auto?id=my-tv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/HRjXQdYEqsE.png",Ananda TV
+http://localhost:5000/auto?id=ananda-tv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/an3L3hgUS82.png",MTV
+http://localhost:5000/auto?id=mtv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/yvvEywo6J8F.png",RTV
+http://localhost:5000/auto?id=rtv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/IdGfv85XRs0.png",Sony Aath
+http://localhost:5000/auto?id=sony-aath-live
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/NY4P4aftEqW.png",Sony HD
+http://localhost:5000/auto?id=sony-hd-live
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/B61Thut4139.png",Sony MAX HD
+http://localhost:5000/auto?id=sony-max-hd-live
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/bOz8QEtSI5I.png",Sony Pix
+http://localhost:5000/auto?id=sony-pix-live
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/v36Q2Qm5N4U.png",Sony SAB TV
+http://localhost:5000/auto?id=sony-sab-tv-live
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/rcy2Fsk4h69.png",Sony Wah
+http://localhost:5000/auto?id=sony-wah-live
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/nTW57rpq18D.png",Lotus Macau
+http://localhost:5000/auto?id=lotus-macau-live
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/0tcjTkF8J3j.png",Zee Bollywood
+http://localhost:5000/auto?id=zee-bollywood
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/HK89HOB5jQq.png",Zee Cinema HD
+http://localhost:5000/auto?id=zee-cinema-hd
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/KQa2WXR9316.png",Zee TV HD
+http://localhost:5000/auto?id=zee-tv-hd
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/1oY1snJ7DyM.png",Desh TV
+http://localhost:5000/auto?id=desh-tv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/ZSbE9HcqJ1t.png",Sony Pal
+http://localhost:5000/auto?id=sony-pal
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/s0bTTZdfF9D.png",Bangla TV
+http://localhost:5000/auto?id=bangla-tv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/cnJR8M5I4Nw.png",Colors Infinity
+http://localhost:5000/auto?id=colors-infinity
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/comH46lae18.png",Colors Rishtey
+http://localhost:5000/auto?id=colors-rishtey
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/6vALPJfkCO2.png",Comedy Central
+http://localhost:5000/auto?id=comedy-central
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/J5ULPA7WOcB.png",BTV HD
+http://localhost:5000/auto?id=btv-hd
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/nD64DsN06HL.png",Global TV
+http://localhost:5000/auto?id=global-tv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/47cMGrcI20O.png",Ekhon TV
+http://localhost:5000/auto?id=ekhon-tv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/REJ17T6ilXm.png",Bijoy TV
+http://localhost:5000/auto?id=bijoy-tv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/2E7lm1eLzFP.png",Asian TV HD
+http://localhost:5000/auto?id=asian-tv-hd
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/geG25Lz1MtS.png",Nexus Television HD
+http://localhost:5000/auto?id=nexus-television-hd
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/j3KbDx9bP15.png",I Film English
+http://localhost:5000/auto?id=i-film-english
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/oqV89ziC1l3.png",MAX 2
+http://localhost:5000/auto?id=max-2
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/kU9AD02Upbj.png",Colors Bangla
+http://localhost:5000/auto?id=colors-bangla
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/tNrsbiTIe9Y.png",Jamuna TV
+http://localhost:5000/auto?id=jamuna-tv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/hw62kGT7ZqJ.png",SA TV
+http://localhost:5000/auto?id=sa-tv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/1Y2Slm56uJ8.png",Ekattor TV
+http://localhost:5000/auto?id=ekattur-tv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/So3Og8HY4uN.png",Sangsad TV
+http://localhost:5000/auto?id=sangsad-tv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/2c08GCMcP3z.png",ATN News
+http://localhost:5000/auto?id=atn-news
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/639iTnh90UR.png",Independent TV
+http://localhost:5000/auto?id=independent-tv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/Z644RVrdngp.png",News 24 HD
+http://localhost:5000/auto?id=news-24-hd
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/6GxyIRO4P74.png",DBC News
+http://localhost:5000/auto?id=dbc-news
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/ipgVRU2qhw3.png",Somoy TV
+http://localhost:5000/auto?id=somoy-tv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/B8bpXHrj52O.png",Al Jazeera English
+http://localhost:5000/auto?id=al-jazeera-english-live
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/I6qT5jy58Z0.png",Eeuro news
+http://localhost:5000/auto?id=eeuro-news-live
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/zCN483JrFyU.png",Channel News Asia
+http://localhost:5000/auto?id=channel-news-asia
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/I7VNuXtfKTI.png",DW
+http://localhost:5000/auto?id=dw-live
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/x2Vl65Rpg51.png",Sony Sports Ten 3
+http://localhost:5000/auto?id=sony-ten-3-live
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/D2a1Ute4D5A.png",Sony  SportsTen 5
+http://localhost:5000/auto?id=sony-ten-5
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/gNWfKU4HL7e.png",Dubai Sports
+http://localhost:5000/auto?id=dubai-sports
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/1x0Bx34CI35.png",Sony Sports Ten 1
+http://localhost:5000/auto?id=sony-ten-1-live
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/V22AJO7uY0m.png",Sony Sports Ten 2
+http://localhost:5000/auto?id=sony-ten-2-live
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/S4fGKjtz0os.png",Nickelodeon
+http://localhost:5000/auto?id=nickelodeon
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/529z5VVIvD4.png",Sonic
+http://localhost:5000/auto?id=sonic
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/yF1LDBD4LyT.png",Nick Junior
+http://localhost:5000/auto?id=nick-junior
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/8pP066l74I6.png",Colors Bangla Cinema
+http://localhost:5000/auto?id=colors-bangla-cinema
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/LZpzV8sMJLv.png",Movie Bangla TV
+http://localhost:5000/auto?id=movie-bangla-tv
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/OpSP8CzuQDK.png",VH1
+http://localhost:5000/auto?id=vh1
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/M9nSNpzRH8r.png",MTV Beats
+http://localhost:5000/auto?id=mtv-beats
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/SvBSUdMiSco.png",Movie Bangla Music
+http://localhost:5000/auto?id=movie-bangla-music
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/UKHcvhwy7oC.png",Sudi Quran
+http://localhost:5000/auto?id=sudi-quran
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/a9LAn1hCKKt.png",Sony Yay
+http://localhost:5000/auto?id=sony-yay-live
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/31838M4IrRb.png",BBC Earth HD
+http://localhost:5000/auto?id=bbc-earth-hd-live
+#EXTINF:-1 group-title="Bioscope-SabbirIPTV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/6n3lhK58Hfn.png",History TV
+http://localhost:5000/auto?id=history-tv
